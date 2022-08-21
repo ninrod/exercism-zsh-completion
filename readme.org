@@ -1,0 +1,4 @@
+* Exercism zsh completion
+
+- a convenience repo to easily obtain [[https://exercism.org/][exercism]] command completion for zsh
+- completion file obtained from [[https://github.com/exercism/cli][upstream]]
